@@ -51,14 +51,17 @@ Analyzed sales trends, customer behavior, geography-based revenue distribution, 
 
 ### Temporal Analysis & Sales Trends
 <img width="1035" height="590" alt="Superstore Sales Trends Dashboard" src="https://github.com/user-attachments/assets/764e06c6-0c28-402c-9f80-95283f1bf5ca" />
+
 *Monthly sales trends, daily performance patterns, and customer segment analysis across 2014-2017*
 
 ### Geographic Performance
 <img width="1028" height="596" alt="Superstore Geographic Analysis" src="https://github.com/user-attachments/assets/baf34579-8e01-44c2-8e8e-03e4bc35763f" />
+
 *Top/bottom states by sales, regional performance comparisons, and city-level revenue distribution*
 
 ### AI Insights & Key Influencers
 <img width="1029" height="588" alt="Superstore AI-Powered Insights" src="https://github.com/user-attachments/assets/05922f6f-eb21-4cc5-a4f7-e40309181820" />
+
 *Power BI's Key Influencers visual identifying Tables and Chairs as primary sales drivers with natural language Q&A*
 
 ---
