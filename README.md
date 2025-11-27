@@ -10,6 +10,17 @@ Analyzed sales trends, customer behavior, geography-based revenue distribution, 
 
 ---
 
+## Business Problems Solved
+This analysis addresses critical business challenges:
+
+- **Strategic Focus:** Where to allocate resources for maximum growth
+- **Customer Understanding:** Which segments drive the most value  
+- **Geographic Optimization:** Which markets offer the best ROI
+- **Operational Efficiency:** How to optimize inventory and shipping
+- **Performance Tracking:** How to monitor and improve sales performance
+
+---
+
 ## Key Highlights
 - **Total Sales:** $2.29M | **Transactions:** 5,009  
 - **Growth (2014–2017):** 51% ($484K → $733K)  
