@@ -145,6 +145,18 @@ It uncovers trends in sales performance, customer behavior, geography-based reve
 
 ---
 
+## Quick Start
+
+### Files Included:
+- `1_SuperStore_Raw_Data.xlsx` -  Source dataset 
+- `2_SuperStore_Dashboard.pbix` - Main Power BI dashboard
+- `3_SuperStore_Dashboard.pdf` - Power BI dashboard pdf
+
+### To Explore:
+1. Download and open the `.pbix` file in Power BI Desktop
+2. Use interactive filters (Year, Region, Category) to explore insights
+3. Navigate between the three report pages for different analysis perspectives
+
 ## Project Context
 This was developed as a **self-directed initiative** to demonstrate comprehensive Power BI and business intelligence skills. 
 **Objective:** Demonstrate end-to-end business intelligence and data analytics using Power BI  
