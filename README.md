@@ -1,2 +1,5 @@
-# Superstore-Sales-Analytics
-A comprehensive Power BI dashboard for analyzing Superstore sales performance across multiple dimensions. This interactive report provides insights into sales trends, customer segments, regional performance, and product category analysis.
+# SuperStore Sales & Transactions Dashboard (Power BI)
+https://img.shields.io/badge/Power_BI-Dashboard-yellow
+https://img.shields.io/badge/Data-Analysis-blue
+https://img.shields.io/badge/Business-Intelligence-red
+https://img.shields.io/badge/Interactive-Visualizations-purple
