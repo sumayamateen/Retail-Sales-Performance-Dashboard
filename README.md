@@ -1,4 +1,8 @@
 # Superstore Sales Analytics & Power BI Dashboard
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-red)
+![Interactive Visualizations](https://img.shields.io/badge/Interactive-Visualizations-purple)
 
 ## Project Overview
 This project presents an end-to-end **Power BI sales analytics dashboard** built using the Superstore dataset.  
@@ -78,15 +82,20 @@ It uncovers trends in sales performance, customer behavior, geography-based reve
 ---
 
 ## Dashboard Preview
-### Temporal Analysis
-<img width="1035" height="590" alt="image" src="https://github.com/user-attachments/assets/764e06c6-0c28-402c-9f80-95283f1bf5ca" />
-### Geographic Analysis
-<img width="1028" height="596" alt="image" src="https://github.com/user-attachments/assets/baf34579-8e01-44c2-8e8e-03e4bc35763f" />
-### Advanced AI Insights
-<img width="1029" height="588" alt="image" src="https://github.com/user-attachments/assets/05922f6f-eb21-4cc5-a4f7-e40309181820" />
 
+### **1. Temporal Analysis & Sales Trends**
+<img width="1035" height="590" alt="Superstore Sales Trends Dashboard" src="https://github.com/user-attachments/assets/764e06c6-0c28-402c-9f80-95283f1bf5ca" />
+*Monthly sales trends, daily performance patterns, and customer segment analysis across 2014-2017*
 
+### **2. Geographic Performance & Regional Insights**  
+<img width="1028" height="596" alt="Superstore Geographic Analysis" src="https://github.com/user-attachments/assets/baf34579-8e01-44c2-8e8e-03e4bc35763f" />
+*Top/bottom states by sales, regional performance comparisons, and city-level revenue distribution*
 
+### **3. Advanced AI Insights & Key Influencers**
+<img width="1029" height="588" alt="Superstore AI-Powered Insights" src="https://github.com/user-attachments/assets/05922f6f-eb21-4cc5-a4f7-e40309181820" />
+*Power BI's Key Influencers visual identifying Tables and Chairs as primary sales drivers with natural language Q&A*
+
+---
 
 ## Technical Implementation
 
