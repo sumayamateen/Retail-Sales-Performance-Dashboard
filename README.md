@@ -81,6 +81,20 @@ It uncovers trends in sales performance, customer behavior, geography-based reve
 
 ---
 
+## Technical Implementation
+
+### **Power BI Features Demonstrated**
+- **DAX Calculations:** KPIs, time-intelligence metrics, custom measures
+- **Interactive Functionality:** Year, region, and category slicers with cross-filtering  
+- **Advanced Visuals Used:** Key Influencers (AI), Decomposition Tree, Geographic Mapping 
+
+### **Dashboard Pages**
+- **Sales & Transactions by Period** – Time-based analysis  
+- **Sales & Transactions by Location** – Geographic performance  
+- **Advanced Sales Exploration** – AI-driven insights & Q&A  
+
+---
+
 ## Dashboard Preview
 
 ### **1. Temporal Analysis & Sales Trends**
@@ -94,20 +108,6 @@ It uncovers trends in sales performance, customer behavior, geography-based reve
 ### **3. Advanced AI Insights & Key Influencers**
 <img width="1029" height="588" alt="Superstore AI-Powered Insights" src="https://github.com/user-attachments/assets/05922f6f-eb21-4cc5-a4f7-e40309181820" />
 *Power BI's Key Influencers visual identifying Tables and Chairs as primary sales drivers with natural language Q&A*
-
----
-
-## Technical Implementation
-
-### **Power BI Features Demonstrated**
-- **DAX Calculations:** KPIs, time-intelligence metrics, custom measures
-- **Interactive Functionality:** Year, region, and category slicers with cross-filtering  
-- **Advanced Visuals Used:** Key Influencers (AI), Decomposition Tree, Geographic Mapping 
-
-### **Dashboard Pages**
-- **Sales & Transactions by Period** – Time-based analysis  
-- **Sales & Transactions by Location** – Geographic performance  
-- **Advanced Sales Exploration** – AI-driven insights & Q&A  
 
 ---
 
@@ -146,11 +146,7 @@ It uncovers trends in sales performance, customer behavior, geography-based reve
 ---
 
 ## Project Context
-**Type:** Self-directed portfolio project  
+This was developed as a **self-directed initiative** to demonstrate comprehensive Power BI and business intelligence skills. 
 **Objective:** Demonstrate end-to-end business intelligence and data analytics using Power BI  
-**Timeline:** Independently developed as part of skill-building  
 **Outcome:** A fully interactive, executive-ready sales dashboard designed for strategic decision-making  
-
-
-*This project was independently conceived, developed, and documented to showcase practical data analytics capabilities.*
 
