@@ -9,9 +9,11 @@
 
 # Project Overview
 
-This project analyzes retail sales transactions from a Superstore to uncover trends in sales performance, customer behavior, product performance, and regional sales.
+This project analyzes retail sales transactions to uncover trends in sales performance, customer behavior, product profitability, and regional performance.
 
-Using **Power BI**, an interactive business intelligence dashboard was developed to transform raw sales data into actionable insights that support strategic business decisions.
+The analysis uses Power BI to transform transactional data into an interactive business intelligence dashboard that helps stakeholders monitor KPIs, identify growth opportunities, and make data-driven decisions.
+
+The dataset is based on a Superstore retail dataset containing historical order transactions from 2014–2017.
 
 ---
 
@@ -34,10 +36,9 @@ The objective of this project is to answer these questions through interactive d
 
 # Dataset
 
-The dataset contains **5,009 retail transactions** from **2014–2017**.
+Superstore retail transaction dataset containing 5,009 orders from 2014–2017.
 
-### Data Includes
-
+The dataset includes:
 * Orders
 * Customers
 * Products
@@ -135,6 +136,11 @@ The analysis focused on understanding business performance from multiple perspec
 * Evaluated shipping preferences.
 * Analyzed weekly sales patterns.
 
+### Profitability Analysis
+
+- Evaluated profit contribution across categories and sub-categories.
+- Identified products and segments affecting overall profitability.
+
 ---
 
 # Key Insights
@@ -162,7 +168,7 @@ The analysis focused on understanding business performance from multiple perspec
 ### Operational Insights
 
 * Sales activity was strongest between Tuesday and Thursday.
-* Weekend sales volume was lower but included higher-value purchases.
+* Sales activity was stronger during weekdays compared with weekends.
 
 ---
 
@@ -246,9 +252,9 @@ The project demonstrates:
 
 | File                      | Description                             |
 | ------------------------- | --------------------------------------- |
-| SuperStore_Raw_Data.xlsx  | Retail sales dataset used for analysis  |
-| SuperStore_Dashboard.pbix | Interactive Power BI dashboard          |
-| SuperStore_Dashboard.pdf  | Dashboard report exported from Power BI |
+| Retail_Sales_Raw_Data.xlsx  | Retail sales dataset used for analysis  |
+| Retail_Sales_Dashboard.pbix | Interactive Power BI dashboard          |
+| Retail_Sales_Dashboard.pdf  | Dashboard report exported from Power BI |
 
 ---
 
