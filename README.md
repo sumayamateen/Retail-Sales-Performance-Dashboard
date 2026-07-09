@@ -1,4 +1,4 @@
-# Superstore Sales Analytics Dashboard
+# Retail Sales Analytics Dashboard | Power BI
 
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811)
 ![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue)
