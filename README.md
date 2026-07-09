@@ -1,104 +1,259 @@
-# Superstore Sales Analytics & Power BI Dashboard
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
-![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-red)
-![Interactive Visualizations](https://img.shields.io/badge/Interactive-Visualizations-purple)
+# Superstore Sales Analytics Dashboard
 
-## Project Overview
-A **Power BI sales analytics dashboard** built using the Superstore dataset to transform **5,009 transactions totaling $2.29M (2014–2017)** into actionable insights.  
-Analyzed sales trends, customer behavior, geography-based revenue distribution, and operational efficiency to inform strategic decisions.
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811)
+![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-success)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange)
 
 ---
 
-## Business Problems Solved
-This analysis addresses critical business challenges:
+# Project Overview
 
-- **Strategic Focus:** Where to allocate resources for maximum growth
-- **Customer Understanding:** Which segments drive the most value  
-- **Geographic Optimization:** Which markets offer the best ROI
-- **Operational Efficiency:** How to optimize inventory and shipping
-- **Performance Tracking:** How to monitor and improve sales performance
+This project analyzes retail sales transactions from a Superstore to uncover trends in sales performance, customer behavior, product performance, and regional sales.
+
+Using **Power BI**, an interactive business intelligence dashboard was developed to transform raw sales data into actionable insights that support strategic business decisions.
 
 ---
 
-## Key Highlights
-- **Total Sales:** $2.29M | **Transactions:** 5,009  
-- **Growth (2014–2017):** 51% ($484K → $733K)  
-- **Top Category:** Technology | **Influential Sub-Categories:** Tables (+$432.7 avg), Chairs (+$322.4 avg)  
-- **Top States:** California, New York, Texas, Washington, Pennsylvania  
-- **Primary Segment:** Consumer | **Shipping Preference:** Standard Class (~58%)  
-- **Tech Stack:** Power BI Desktop, DAX, Data Modeling, Advanced Visuals  
+# Business Problem
+
+A retail company generates thousands of sales transactions every year but lacks a centralized view of its business performance.
+
+Management needs answers to important business questions:
+
+* Which products and categories generate the highest sales?
+* Which customer segments contribute the most revenue?
+* Which regions and states perform best?
+* How do sales change over time?
+* Which shipping methods are most frequently used?
+* Where should the business focus its sales and marketing efforts?
+
+The objective of this project is to answer these questions through interactive dashboards and data-driven analysis.
 
 ---
 
-## Dashboard Features & Insights
+# Dataset
 
-### Temporal Analysis
-- 2017 highest sales ($733K) with Q4 spikes  
-- Tue–Thu strongest daily sales; weekends lowest  
+The dataset contains **5,009 retail transactions** from **2014–2017**.
 
-### Geographical Insights
-- Top 5 states generate ~40% of revenue  
-- West region consistently outperforms others  
+### Data Includes
 
-### Customer & Product Analytics
-- Consumer > Corporate > Home Office  
-- Key Influencers: Tables, Chairs, Phones drive Technology category revenue  
-
-### Operational Metrics
-- Shipping Mode: Standard 58%, Second 20%, First 15%, Same Day 7%  
-- Higher weekday transactions; premium products boost occasional weekend sales  
-
----
-
-## Technical Implementation
-- **DAX Calculations:** KPIs, time-intelligence, custom measures  
-- **Interactive Functionality:** Year, Region, Category slicers with cross-filtering  
-- **Advanced Visuals:** Key Influencers (AI), Decomposition Tree, Geographic Mapping  
+* Orders
+* Customers
+* Products
+* Categories
+* Regions
+* States
+* Sales
+* Quantity
+* Discount
+* Profit
+* Shipping Information
 
 ---
 
-## Dashboard Preview
+# Tools & Technologies
 
-### Temporal Analysis & Sales Trends
-<img width="1035" height="590" alt="Superstore Sales Trends Dashboard" src="https://github.com/user-attachments/assets/764e06c6-0c28-402c-9f80-95283f1bf5ca" />
+## Power BI
 
-*Monthly sales trends, daily performance patterns, and customer segment analysis across 2014-2017*
+Used for:
 
-### Geographic Performance
-<img width="1028" height="596" alt="Superstore Geographic Analysis" src="https://github.com/user-attachments/assets/baf34579-8e01-44c2-8e8e-03e4bc35763f" />
-
-*Top/bottom states by sales, regional performance comparisons, and city-level revenue distribution*
-
-### AI Insights & Key Influencers
-<img width="1029" height="588" alt="Superstore AI-Powered Insights" src="https://github.com/user-attachments/assets/05922f6f-eb21-4cc5-a4f7-e40309181820" />
-
-*Power BI's Key Influencers visual identifying Tables and Chairs as primary sales drivers with natural language Q&A*
+* Data Modeling
+* DAX Measures
+* KPI Reporting
+* Interactive Dashboards
+* Data Visualization
+* Business Intelligence Reporting
 
 ---
 
-## Business Insights & Recommendations
-- Focus on **Technology** and high-performing Furniture items (Tables & Chairs)  
-- Strengthen presence in fast-growing regions (California, East)  
-- Maintain marketing toward **Consumer** segment  
-- Optimize shipping strategy and inventory for top categories  
-- Deploy targeted initiatives for underperforming states  
+# Dashboard Features
+
+The dashboard includes:
+
+* Executive KPI Cards
+* Sales Trend Analysis
+* Customer Segment Analysis
+* Category & Sub-Category Analysis
+* Regional & State Performance
+* Geographic Map
+* Shipping Mode Analysis
+* AI Key Influencers
+* Decomposition Tree
+* Interactive Slicers
+* Cross-filtering
 
 ---
 
-## Quick Start
-### Files Included
-- `1_SuperStore_Raw_Data.xlsx` – Source dataset  
-- `2_SuperStore_Dashboard.pbix` – Power BI dashboard  
-- `3_SuperStore_Dashboard.pdf` – Exported dashboard  
+# Dashboard Preview
 
-### How to Explore
-1. Open `.pbix` in Power BI Desktop  
-2. Use slicers (Year, Region, Category) to explore insights  
-3. Navigate dashboard pages: Temporal, Geographic, AI-driven insights  
+## Sales Trends Dashboard
+
+<img width="1035" height="590" alt="Sales Trends Dashboard" src="https://github.com/user-attachments/assets/764e06c6-0c28-402c-9f80-95283f1bf5ca" />
 
 ---
 
-## Project Context
-**Self-directed initiative** to showcase end-to-end **Power BI and business intelligence skills**.  
-Deliverable: Fully interactive, executive-ready sales dashboard for strategic decision-making.
+## Geographic Performance Dashboard
+
+<img width="1028" height="596" alt="Geographic Dashboard" src="https://github.com/user-attachments/assets/baf34579-8e01-44c2-8e8e-03e4bc35763f" />
+
+---
+
+## AI Insights Dashboard
+
+<img width="1029" height="588" alt="AI Dashboard" src="https://github.com/user-attachments/assets/05922f6f-eb21-4cc5-a4f7-e40309181820" />
+
+---
+
+# Analysis
+
+The analysis focused on understanding business performance from multiple perspectives:
+
+### Sales Performance
+
+* Analyzed yearly sales trends from 2014–2017.
+* Identified seasonal sales patterns.
+* Compared sales across product categories.
+
+### Customer Analysis
+
+* Evaluated sales contribution by customer segment.
+* Analyzed purchasing behavior across different customer groups.
+
+### Product Analysis
+
+* Compared product categories and sub-categories.
+* Identified top-performing products using Power BI AI visuals.
+
+### Regional Analysis
+
+* Compared sales across regions, states, and cities.
+* Identified high-performing and underperforming markets.
+
+### Operational Analysis
+
+* Evaluated shipping preferences.
+* Analyzed weekly sales patterns.
+
+---
+
+# Key Insights
+
+### Sales Performance
+
+* Sales increased from approximately **$484K in 2014** to **$733K in 2017**, representing around **51% growth**.
+* Sales consistently peaked during the fourth quarter.
+
+### Customer Insights
+
+* The **Consumer** segment generated the highest overall sales.
+* Standard Class accounted for approximately **58%** of all shipments.
+
+### Product Insights
+
+* **Technology** generated the highest sales.
+* **Tables**, **Chairs**, and **Phones** were among the strongest revenue contributors.
+
+### Geographic Insights
+
+* California, New York, Texas, Washington, and Pennsylvania generated the highest sales.
+* The West region consistently outperformed the remaining regions.
+
+### Operational Insights
+
+* Sales activity was strongest between Tuesday and Thursday.
+* Weekend sales volume was lower but included higher-value purchases.
+
+---
+
+# Business Recommendations
+
+### Optimize Product Strategy
+
+Increase inventory availability and promotional activities for high-performing Technology products and profitable Furniture items.
+
+### Strengthen High-Performing Markets
+
+Continue investing in top-performing regions while developing improvement strategies for lower-performing locations.
+
+### Focus on Consumer Customers
+
+Develop targeted campaigns and customer retention initiatives for the Consumer segment.
+
+### Improve Inventory Planning
+
+Use historical sales trends to prepare inventory before seasonal demand peaks.
+
+### Monitor Business Performance
+
+Track KPIs regularly, including:
+
+* Total Sales
+* Profit
+* Conversion by Category
+* Customer Segment Performance
+* Regional Sales
+* Shipping Performance
+
+---
+
+# Business Value
+
+This dashboard enables business stakeholders to:
+
+* Monitor sales performance in real time.
+* Identify high-performing products and customer segments.
+* Compare regional performance for better resource allocation.
+* Support inventory and marketing decisions with data.
+* Track business KPIs through an interactive dashboard.
+* Make informed strategic decisions using visual analytics.
+
+---
+
+# Technical Implementation
+
+The project demonstrates:
+
+* Data Modeling
+* DAX Measures
+* Interactive Filtering
+* AI Key Influencers
+* Geographic Mapping
+* KPI Reporting
+* Business Intelligence Dashboard Development
+* Data Storytelling
+
+---
+
+# Skills Demonstrated
+
+* Power BI
+* DAX
+* Business Intelligence
+* Dashboard Design
+* Data Visualization
+* KPI Reporting
+* Exploratory Data Analysis (EDA)
+* Sales Analytics
+* Customer Analytics
+* Geographic Analysis
+* Business Analytics
+* Data Storytelling
+
+---
+
+# Files Included
+
+| File                      | Description                             |
+| ------------------------- | --------------------------------------- |
+| SuperStore_Raw_Data.xlsx  | Retail sales dataset used for analysis  |
+| SuperStore_Dashboard.pbix | Interactive Power BI dashboard          |
+| SuperStore_Dashboard.pdf  | Dashboard report exported from Power BI |
+
+---
+
+# Project Context
+
+**Focus Area:** Sales Analytics • Business Intelligence • Dashboard Development
+
+This project demonstrates an end-to-end business intelligence workflow, transforming retail sales data into interactive dashboards that provide actionable insights and support data-driven decision-making.
